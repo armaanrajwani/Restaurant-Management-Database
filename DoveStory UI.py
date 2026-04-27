@@ -6,7 +6,7 @@ import mysql.connector
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Password",
+    password="Enter_Your_Password",
     database="DoveStoryDB"
 )
 
