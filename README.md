@@ -47,6 +47,18 @@ Relationships:
 
 ## ▶️ How to Run
 
+
+
 ### 1. Setup Database
+
+
+- Run your SQL scripts to create tables and insert sample data
+
+---
+
+### 2. Install Dependency
+
+```bash
+pip install mysql-connector-python
 - Open MySQL Workbench
 - Create database:
